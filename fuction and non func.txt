@@ -1,0 +1,29 @@
+function req:
+1. *Real-time Interaction:* The chatbot should provide immediate responses to user queries or emergencies, ensuring minimal delay.
+
+2. *Emergency Response:* Ability to recognize and respond to urgent medical situations, providing appropriate guidance or initiating emergency services.
+
+3-Medical Information:* Offer accurate and reliable medical information, including first aid procedures and general medical advice.
+
+4-emergecy call : easliy access to emergecy numbers with simple button 
+
+5-ui-ux : simple design to interact with 
+
+6-get location : easily access to location in emergecies 
+
+### Non-Functional Requirements:
+
+1. *Reliability:* The chatbot should be available and responsive 24/7 without downtime.
+
+2. *Security:* Ensure the confidentiality of user information and compliance with data protection regulations (like GDPR, HIPAA).
+
+3. *Scalability:* Capability to handle multiple concurrent users during peak times or emergencies without a decline in performance.
+
+4. *Accuracy and Precision:* Provide accurate medical information and responses to ensure user trust and safety.
+
+5. *Ease of Use:* User-friendly interface with clear instructions and simple navigation, especially during stressful situations.
+
+6. *Performance:* Fast response times to maintain user engagement and provide timely assistance.
+
+7. *Accessibility:* Ensure compatibility across various devices and platforms for broader accessibility
+
